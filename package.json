@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-express-social-login",
+  "name": "nuxt-express-social-auth",
   "version": "1.0.0",
   "description": "Make Authentication web application using nuxt.js, vuetify, express and passport.js.",
   "author": "Maxbloodz",
